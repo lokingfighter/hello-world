@@ -1,1 +1,3 @@
 # hello-world
+
+Hi, very interested in IT, wanna know how does everything work in programming etc...
